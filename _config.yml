@@ -17,7 +17,7 @@ timezone: Asia/Seoul
 ###########################################################
 
 navbar-links:
-  소개: ""
+  #소개: ""
   이력서: "resume"
   경력: "career"
   프로젝트: "projects"
