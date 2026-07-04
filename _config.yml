@@ -18,7 +18,7 @@ timezone: Asia/Seoul
 
 navbar-links:
   #소개: ""
-  이력서: "resume"
+  이력: "resume"
   경력: "career"
   프로젝트: "projects"
   기술: "skills"
