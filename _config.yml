@@ -2,8 +2,7 @@
 # Portfolio Configuration
 ###########################################################
 
-# Site
-title: 홍성수 포트폴리오
+title: 포트폴리오 홈
 author: 홍성수
 description: 기계설계 · 사출금형설계 · 생산기술 포트폴리오
 
@@ -17,8 +16,11 @@ timezone: Asia/Seoul
 ###########################################################
 
 navbar-links:
-  경력: "/career"
-  프로젝트: "/projects"
+  Home: "/"
+  Resume: "/career"
+  Projects: "/projects"
+  Portfolio (PDF): "/assets/pdf/resume.pdf"
+  Contact: "/contact"
 
 ###########################################################
 # Social
@@ -26,7 +28,7 @@ navbar-links:
 
 social-network-links:
   email: "googoo611@naver.com"
-  github: "googoo611"
+  github: "https://github.com/googoo611"
 
 ###########################################################
 # Appearance
@@ -74,7 +76,7 @@ defaults:
       layout: page
 
 ###########################################################
-# Plugins (GitHub Pages safe set)
+# Plugins
 ###########################################################
 
 plugins:
